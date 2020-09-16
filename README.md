@@ -1,7 +1,7 @@
 # URI Class
 
 [![Latest Version](http://img.shields.io/packagist/v/modularr/uri.svg?style=flat)](https://packagist.org/packages/Modularr/uri)
-[![Software License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Software License](https://img.shields.io/badge/license-UNLICENSE-blue.svg)](LICENSE)
 [![Total Downloads](https://img.shields.io/packagist/dt/modularr/uri.svg?style=flat)](https://packagist.org/packages/Modularr/uri)
 
 The URI Class provides functions that help you retrieve information from your URI strings. If you use URI routing, you can also retrieve information about the re-routed segments.
