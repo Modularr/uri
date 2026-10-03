@@ -39,12 +39,9 @@ $product_id = $uri->segment(3, 0);
 ```
 It helps avoid having to write code like this:
 ```php
-if (empty($uri->segment(3)))
-{
+if(empty($uri->segment(3))) {
     $product_id = 0; # if segment is empty
-}
-else
-{
+} else {
     $product_id = $uri->segment(3); # get the segment
 }
 ```
