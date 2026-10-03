@@ -1,6 +1,9 @@
 <?php
-class URI
-{
+class URI {
+    public $folder;
+    public $segments;
+    public $uri_string;
+    
     public function __construct($folder=null) {
         
         $this->folder = $folder;
